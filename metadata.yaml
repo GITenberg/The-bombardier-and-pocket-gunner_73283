@@ -1,0 +1,33 @@
+_repo: The-bombardier-and-pocket-gunner_73283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adye, Ralph Willett
+    birthdate: 1764
+    deathdate: 1804
+    gutenberg_agent_id: '57014'
+    url: http://www.gutenberg.org/2009/agents/57014
+description: ''
+edition_note: First American, from the second London edition.
+gutenberg_issued: '2024-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73283'
+  lccn: '32031074'
+language: en
+pgterms:marc905: 20170521001846adye
+pgterms:marc906: '1804'
+pgterms:marc907: US
+production_note: Brian Coe and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aCharlestown :$bWilliam Greenough, $c1804.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artillery -- Handbooks, manuals, etc.'
+- !lcsh 'Artillery drill and tactics'
+- !lcc 'UF'
+- GITenberg
+title: The bombardier, and pocket gunner
+url: http://www.gutenberg.org/ebooks/73283
