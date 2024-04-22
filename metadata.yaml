@@ -1,5 +1,8 @@
 _repo: The-bombardier-and-pocket-gunner_73283
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73283-h/images/cover.jpg
 creator:
   author:
     agent_name: Adye, Ralph Willett
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '57014'
     url: http://www.gutenberg.org/2009/agents/57014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73283#The-bombardier-and-pocket-gunner
 edition_note: First American, from the second London edition.
 gutenberg_issued: '2024-03-29'
 gutenberg_type: Text
